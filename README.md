@@ -33,24 +33,21 @@ I turn complex, unstructured data into clear, actionable business insights and h
 ---
 
 ### 📈 GitHub Stats & Activity
-
-### 📈 GitHub Stats & Activity
-
 <div align="center">
 
   <!-- Overall Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=olaomofavour&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=olaomofavour&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" height="175" />
 
   <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com?user=olaomofavour&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="175" />
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olaomofavour&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=olaomofavour&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=olaomofavour&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=6" alt="GitHub Trophies" />
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaomofavour&theme=tokyo-night&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="95%" />
 
 </div>
 ---

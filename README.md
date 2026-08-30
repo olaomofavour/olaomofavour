@@ -29,30 +29,33 @@ I turn complex, unstructured data into clear, actionable business insights and h
 * **DevOps & Automation:** Docker, n8n, Git/GitHub, Ubuntu / Linux CLI
 * **Certifications:** Microsoft Certified: Azure Data Fundamentals (DP-900)
 
----
-
-### 💼 Experience & Leadership Highlights
-
-* **Data Analyst & Operations Lead | BemsSoft Hub (Smartairs)**  
-  Led terminal deployments, receipt infrastructure, and tax data reconciliation pipelines, streamlining field operations and fiscal reporting accuracy.
-* **Project Manager | Digital Literacy for All (DL4ALL)**  
-  Spearheaded tech community development initiatives, training programs, and project administration.
-* **Data Team Lead / Performance Tracking | Sabi Analysts**  
-  Monitored cohort performance, attendance pipelines, and automated reporting dashboards.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
+  <!-- Main Overall Stats (Tokyo Night Theme with Custom Gradient Border) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&ring_color=38bdf8&icon_color=38bdf8&title_color=a855f7&text_color=e2e8f0&rank_icon=github" alt="Favour's GitHub Stats" height="185" />
+
+  <!-- Dynamic Contribution Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&border_radius=12&ring=38bdf8&fire=f97316&currStreakLabel=a855f7" alt="GitHub Streak" height="185" />
+
+  <br/><br/>
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" height="175" />
+
+  <!-- Animated Trophy Case -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin_w=6&row=1&column=6" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true&hide_border=false&border_radius=12" alt="Activity Graph" width="95%" />
+
+</div>
 ---
 
-### 📬 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com)
-* **Portfolio / Website:** [yourportfolio.link](https://yourportfolio.link)
-* **Email:** your.email@example.com

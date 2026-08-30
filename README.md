@@ -34,26 +34,23 @@ I turn complex, unstructured data into clear, actionable business insights and h
 
 ### 📈 GitHub Stats & Activity
 
+### 📈 GitHub Stats & Activity
+
 <div align="center">
 
-  <!-- Main Overall Stats (Tokyo Night Theme with Custom Gradient Border) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&ring_color=38bdf8&icon_color=38bdf8&title_color=a855f7&text_color=e2e8f0&rank_icon=github" alt="Favour's GitHub Stats" height="185" />
+  <!-- Overall Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=olaomofavour&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" height="175" />
 
-  <!-- Dynamic Contribution Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&border_radius=12&ring=38bdf8&fire=f97316&currStreakLabel=a855f7" alt="GitHub Streak" height="185" />
-
-  <br/><br/>
-
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" height="175" />
-
-  <!-- Animated Trophy Case -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin_w=6&row=1&column=6" alt="GitHub Trophies" />
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=olaomofavour&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="175" />
 
   <br/><br/>
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true&hide_border=false&border_radius=12" alt="Activity Graph" width="95%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olaomofavour&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=olaomofavour&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 ---

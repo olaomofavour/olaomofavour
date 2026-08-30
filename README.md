@@ -46,8 +46,10 @@ I turn complex, unstructured data into clear, actionable business insights and h
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=olaomofavour&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaomofavour&theme=tokyo-night&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="95%" />
+  <br/><br/>
+
+  <!-- High-Availability Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=olaomofavour&theme=tokyo-night&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="95%" />
 
 </div>
 ---

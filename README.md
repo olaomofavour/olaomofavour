@@ -1,8 +1,8 @@
-![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Banner.jpg)
+<!-- ![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Banner.jpg) -->
 
 <!-- Replace 'banner.png' with your saved banner filename/path if uploaded to your repo -->
 <p align="center">
-  <img src="banner.png" alt="Olaomo Favour Banner" width="100%" />
+  <img src="https://github.com/olaomofavour/olaomofavour/blob/main/Banner.jpg" alt="Olaomo Favour Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Olaomo Favour Fiyinfoluwa</h1>

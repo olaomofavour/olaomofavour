@@ -26,7 +26,7 @@ With a strong analytical and software foundation, I specialize in data analytics
 
 * 🔭 **Current Focus:** Scalable ETL pipelines, data modeling, and automated cloud workflows
 * 👯 **Collaboration:** Open to data engineering, BI, and cloud architecture challenges
-* ⚡ **Fun Fact:** Avid gamer and anime enthusiast
+* ⚡ **Fun Fact:** Gamer and anime enthusiast
 
 ---
 

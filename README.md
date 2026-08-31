@@ -1,4 +1,4 @@
-![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Gemini_Generated_Image_48wg8o48wg8o48wg.jpg)
+![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Banner.jpg)
 
 ### Hi there 👋, my name is Olaomo Favour Fiyinfoluwa
 #### Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress 

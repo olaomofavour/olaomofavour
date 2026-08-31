@@ -1,6 +1,8 @@
+![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Gemini_Generated_Image_48wg8o48wg8o48wg.jpg)
+
 ### Hi there 👋, my name is Olaomo Favour Fiyinfoluwa
 #### Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress 
-![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Gemini_Generated_Image_48wg8o48wg8o48wg.jpg)
+
 
 I am a Computer Science graduate from Anchor University and a certified data professional holding the Microsoft Certified: Azure Data Fundamentals credential. With a strong analytical and technical foundation, he specializes in data analytics, business intelligence, and cloud integration, turning complex data into clear strategic insights and automated solutions using SQL, Python, Power BI, and Microsoft Azure.
 

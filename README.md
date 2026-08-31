@@ -1,33 +1,25 @@
-## Hi there 👋
+### Hi there 👋, my name is Olaomo Favour Fiyinfoluwa
+#### Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress 
+![Data Analyst | Analytics Engineer | AI Automation Engineer | Data Engineer in progress ](https://github.com/olaomofavour/olaomofavour/blob/main/Gemini_Generated_Image_48wg8o48wg8o48wg.jpg)
 
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=olaomofavour)](https://github.com/stats-organization/github-stats-extended)
-
-
-# Hi there, I'm Favour Olaomo 👋
-
-**Data Analyst | Business Intelligence & Analytics Engineer | Automation Enthusiast**
-
-I turn complex, unstructured data into clear, actionable business insights and high-impact automated workflows. With a background in Computer Science, I specialize in building end-to-end data pipelines, developing interactive dashboards, and orchestrating cloud-native architectures.
+I am a Computer Science graduate from Anchor University and a certified data professional holding the Microsoft Certified: Azure Data Fundamentals credential. With a strong analytical and technical foundation, he specializes in data analytics, business intelligence, and cloud integration, turning complex data into clear strategic insights and automated solutions using SQL, Python, Power BI, and Microsoft Azure.
 
 ---
 
-### 🚀 What I Do
-
-* **Data Engineering & Analytics:** Designing relational data models, writing advanced SQL queries, building DAX measures, and architecting robust ETL pipelines.
-* **Business Intelligence:** Crafting executive-ready dashboards and operational reporting tools using Power BI, Excel, and Microsoft Fabric.
-* **Workflow Automation & AI Integration:** Building autonomous agents, API integrations, and self-hosted automation workflows using n8n and Docker.
-* **Cloud & Infrastructure:** Deploying and managing scalable solutions across Microsoft Azure and Linux environments.
-
----
-
-### 🛠️ Tech Stack & Tools
-
+Skills & Tools:
 * **Languages & Core:** Python, SQL, Bash
 * **Data Visualization & BI:** Power BI, Microsoft Fabric, Advanced Excel, Power Query, DAX
 * **Cloud & Services:** Microsoft Azure (Blob Storage, App Service, Functions, Key Vault, Data Factory)
 * **DevOps & Automation:** Docker, n8n, Git/GitHub, Ubuntu / Linux CLI
 * **Certifications:** Microsoft Certified: Azure Data Fundamentals (DP-900)
+
+  ---
+
+- 👯 I’m looking to collaborate on Data and Cloud Challenges 
+- ⚡ Fun fact: Love  Animes and Games 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/favour-fiyinfoluwa-olaomo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sighbug09//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/FavourOlaomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://olaomo-favour-portfolio-eta.vercel.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@olaomofavour)  
 
 
 ---
